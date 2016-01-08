@@ -1,1 +1,1 @@
-- [Final](https://stuartmcmaw.github.io/essay/jmb/index.html)
+- [Final](https://stuartmcmaw.github.io/mypersonalpage/jmb/index.html)
